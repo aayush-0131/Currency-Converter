@@ -45,12 +45,41 @@ Example
 
 
 --- CLI Currency Converter ---
+
+
+
+
 Enter the amount to convert: 100
+
+
+
+
 Enter the source currency (e.g., USD, EUR, INR): USD
+
+
+
+
+
 Enter the target currency (e.g., USD, EUR, INR): INR
 
+
+
+
+
 Fetching exchange rates for USD...
+
+
+
+
 -------------------------
+
+
+
 100.0 USD is equal to 8343.30 INR
+
+
+
+
+
 Current rate (as of 2025-09-17): 1 USD = 83.433 INR
 -------------------------
