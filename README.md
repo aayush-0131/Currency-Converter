@@ -41,6 +41,9 @@ python main.py
 The application will then prompt you to enter the amount, the source currency code (e.g., USD), and the target currency code (e.g., INR).
 
 Example
+
+
+
 --- CLI Currency Converter ---
 Enter the amount to convert: 100
 Enter the source currency (e.g., USD, EUR, INR): USD
