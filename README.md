@@ -36,7 +36,7 @@ Run the script from your terminal:
 ```bash
 python main.py
 
-
+```
 
 The application will then prompt you to enter the amount, the source currency code (e.g., USD), and the target currency code (e.g., INR).
 
